@@ -1,0 +1,8 @@
+package com.itfactory;
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Learning Git Project with IntelliJiDEA");
+    }
+}
